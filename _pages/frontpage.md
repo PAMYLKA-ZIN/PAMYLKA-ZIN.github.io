@@ -1,4 +1,9 @@
-# U raspracoŭcy
+---
+permalink: /
+layout: home
+title: Сардэчна вітаем!
+list_title: Навукова-папулярны зін на беларускай мове
+---
 
 |               Чытаць анлайн               |             Вэрсія на друк            |
 | ----------------------------------------- | ------------------------------------- |
@@ -27,4 +32,3 @@
 [print_numar_3]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-3/tree/main/PAMYLKA_ZIN_3_FOR_PRINT
 [print_numar_4]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-4/tree/main/PAMYLKA_ZIN_3_FOR_PRINT
 [print_numar_5]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-5/tree/main/PAMYLKA_ZIN_5_FOR_PRINT
-
