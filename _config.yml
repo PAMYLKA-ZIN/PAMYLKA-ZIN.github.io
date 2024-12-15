@@ -29,9 +29,8 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - _pages/frontpage.md
-  - _pages/about.md
   - _pages/bison.md
+  - _pages/about.md
 
 include:
   - _pages
