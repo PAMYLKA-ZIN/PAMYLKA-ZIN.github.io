@@ -53,6 +53,7 @@ plugins:
 header_pages:
   - _pages/frontpage.md
   - _pages/about.md
+  - _pages/bison.md
 
 include:
   - _pages
