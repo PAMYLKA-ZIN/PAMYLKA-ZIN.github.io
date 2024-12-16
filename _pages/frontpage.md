@@ -7,11 +7,11 @@ list_title: Навукова-папулярны зін на беларускай
 
 |      Чытаць з браўзэра / спампаваць       |             Вэрсія на друк            |
 | ----------------------------------------- | ------------------------------------- |
-| [![Numar 1][cover_numar_1]][read_numar_1] | [![ściahnuć][printer]][print_numar_1] |
-| [![Numar 2][cover_numar_2]][read_numar_2] | [![ściahnuć][printer]][print_numar_2] |
-| [![Numar 3][cover_numar_3]][read_numar_3] | [![ściahnuć][printer]][print_numar_3] |
-| [![Numar 4][cover_numar_4]][read_numar_4] | [![ściahnuć][printer]][print_numar_4] |
 | [![Numar 5][cover_numar_5]][read_numar_5] | [![ściahnuć][printer]][print_numar_5] |
+| [![Numar 4][cover_numar_4]][read_numar_4] | [![ściahnuć][printer]][print_numar_4] |
+| [![Numar 3][cover_numar_3]][read_numar_3] | [![ściahnuć][printer]][print_numar_3] |
+| [![Numar 2][cover_numar_2]][read_numar_2] | [![ściahnuć][printer]][print_numar_2] |
+| [![Numar 1][cover_numar_1]][read_numar_1] | [![ściahnuć][printer]][print_numar_1] |
 
 [printer]: https://upload.wikimedia.org/wikipedia/commons/d/d2/Fluent_Emoji_Color_1f5a8-fe0f.svg
 
