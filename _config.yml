@@ -29,11 +29,13 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - _pages/bison.md
+  - _pages/read.md
   - _pages/about.md
 
 include:
   - _pages
+  - _posts
+  - _drafts
 
 exclude: 
   - .gitignore
