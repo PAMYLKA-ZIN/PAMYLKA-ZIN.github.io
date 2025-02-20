@@ -4,7 +4,7 @@ layout: post
 title: Бізон Гіґс 2024. Намінанты
 ---
 
-***
+<hr style="width: 100%">
 
 ## <center> Павел Урбановіч, Аляксандр Пінчэнкаў, Аляксандр Кудраватых </center>
 
@@ -14,9 +14,9 @@ title: Бізон Гіґс 2024. Намінанты
 
 * Пра іхную працу можна прачытаць у інтэрв'ю на [«Онлайнеры»](https://tech.onliner.by/2020/01/29/domashanie-seti)
 
-{% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %}
+<!-- {% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %} -->
 
-***
+<hr style="width: 100%">
 
 ## <center> Алег Ціханенка </center>
 
@@ -27,9 +27,9 @@ title: Бізон Гіґс 2024. Намінанты
 
 * [prof. zw. dr hab. Oleg Tikhonenko &#124; Oleg Tikhonenko &#8211; Strona Domowa](https://olegtikhonenko.blog.uksw.edu.pl/przykladowa-strona/)
 
-{% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %}
+<!-- {% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %} -->
 
-***
+<hr style="width: 100%">
 
 ## <center> Юлія Сандамірская (Yulia Sandamirskaya) </center>
 
@@ -42,9 +42,9 @@ title: Бізон Гіґс 2024. Намінанты
 * [Yulia Sandamirskaya - Zürich Metropolitan Area &#124; Professional Profile &#124; LinkedIn](https://www.linkedin.com/in/yulia-sandamirskaya-0076553/)
 * [Yulia Sandamirskaya - Google Scholar](https://scholar.google.com/citations?user=E1jhoakAAAAJ&hl=en)
 
-{% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %}
+<!-- {% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %} -->
 
-***
+<hr style="width: 100%">
 
 ## <center> Дзяніс Кіцель </center>
 
@@ -58,9 +58,9 @@ title: Бізон Гіґс 2024. Намінанты
 * [Denis KITEL &#124; Researcher &#124; University of Białystok, Białystok &#124; Research profile](https://www.researchgate.net/profile/Denis-Kitel)
 * [Denis Kitel &#124; LinkedIn](https://www.linkedin.com/in/denis-kitel-830709109/)
 
-{% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %}
+<!-- {% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %} -->
 
-***
+<hr style="width: 100%">
 
 ## <center> Зміцер Фірага (Dzmitry Firaha) </center>
 
@@ -77,9 +77,9 @@ title: Бізон Гіґс 2024. Намінанты
 * [Avant-garde Materials Simulations &#124; Science &#124; avmatsim](https://www.avmatsim.eu/science)
 * [See Dzmitry Firaha, Dr.’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7270841785428369409/)
 
-{% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %}
+<!-- {% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %} -->
 
-***
+<hr style="width: 100%">
 
 ## <center> Максім Домніч </center>
 
@@ -97,4 +97,4 @@ title: Бізон Гіґс 2024. Намінанты
 * [Maksim DOMNICH &#124; PhD Candidate &#124; Diploma &#124; University Hospital Essen, Essen &#124; UK Essen &#124; Ear, Nose, and Throat Clinic &#124; Research profile](https://www.researchgate.net/profile/Maksim-Domnich)
 * [Maksim Domnich - PhD candidate - University Hospital Essen &#124; LinkedIn](https://de.linkedin.com/in/maksim-domnich-61a53b109?trk=public_profile_browsemap)
 
-{% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %}
+<!-- {% include button_block.html button_name="Да формы галасавання" button_class="btn-default btn-md-block" url="https://next.falanster.info/index.php/apps/forms/s/rL7Z2t6qZ9WHCnsEdBE87G2A" %} -->
