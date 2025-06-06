@@ -6,6 +6,7 @@ title: Чытаць Памылкі анлайн
 
 |      Чытаць з браўзэра / спампаваць       |             Вэрсія на друк            |
 | ----------------------------------------- | ------------------------------------- |
+| [![Numar 7][cover_numar_7]][read_numar_7] | [![ściahnuć][printer]][print_numar_7] |
 | [![Numar 6][cover_numar_6]][read_numar_6] | [![ściahnuć][printer]][print_numar_6] |
 | [![Numar 5][cover_numar_5]][read_numar_5] | [![ściahnuć][printer]][print_numar_5] |
 | [![Numar 4][cover_numar_4]][read_numar_4] | [![ściahnuć][printer]][print_numar_4] |
@@ -14,6 +15,10 @@ title: Чытаць Памылкі анлайн
 | [![Numar 1][cover_numar_1]][read_numar_1] | [![ściahnuć][printer]][print_numar_1] |
 
 [printer]: https://upload.wikimedia.org/wikipedia/commons/d/d2/Fluent_Emoji_Color_1f5a8-fe0f.svg
+
+[cover_numar_7]: https://github.com/PAMYLKA-ZIN/pamylka-number-7/raw/refs/heads/main/PAMYLKA_ZIN_7_FOR_SHARING/PAMYLKA_ZIN_7_interactive_last.pdf
+[read_numar_7]: https://github.com/PAMYLKA-ZIN/pamylka-number-7/raw/refs/heads/main/PAMYLKA_ZIN_7_FOR_SHARING/PAMYLKA_ZIN_7_interactive_last.pdf
+[print_numar_7]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-7/tree/main/PAMYLKA_ZIN_7_FOR_PRINT
 
 [cover_numar_6]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PAMYLKA_ZIN-6.jpg/543px-PAMYLKA_ZIN-6.jpg
 [read_numar_6]: https://github.com/PAMYLKA-ZIN/pamylka-number-6/raw/refs/heads/main/PAMYLKA_ZIN_6_FOR_SHARING/PAMYLKA_ZIN__6_interactive.pdf
