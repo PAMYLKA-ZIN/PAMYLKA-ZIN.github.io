@@ -29,15 +29,15 @@ title: Чытаць Памылкі анлайн
 [print_numar_5]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-5/tree/main/PAMYLKA_ZIN_5_FOR_PRINT
 
 [cover_numar_4]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PAMY%C5%81KA_ZIN-4.jpg/543px-PAMY%C5%81KA_ZIN-4.jpg
-[read_numar_4]: https://github.com/PAMYLKA-ZIN/pamylka-number-4/raw/refs/heads/main/PAMYLKA_ZIN_3_FOR_SHARING/PAMYLKA_ZIN_4_interactive_v4.pdf
-[print_numar_4]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-4/tree/main/PAMYLKA_ZIN_3_FOR_PRINT
+[read_numar_4]: https://github.com/PAMYLKA-ZIN/pamylka-number-4/raw/refs/heads/main/PAMYLKA_ZIN_4_FOR_SHARING/PAMYLKA_ZIN_4_interactive_v4.pdf
+[print_numar_4]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-4/tree/main/PAMYLKA_ZIN_4_FOR_PRINT
 
 [cover_numar_3]: https://upload.wikimedia.org/wikipedia/be/thumb/b/b3/PAMY%C5%81KA_ZIN-3.jpeg/543px-PAMY%C5%81KA_ZIN-3.jpeg
-[read_numar_3]: https://github.com/PAMYLKA-ZIN/pamylka-number-3/raw/refs/heads/main/PAMYLKA_ZIN_3_FOR_SHARING/PAMYLKA_ZIN_3_interactive_v_4.pdf
+[read_numar_3]: https://github.com/PAMYLKA-ZIN/pamylka-number-3/raw/refs/heads/main/PAMYLKA_ZIN_3_FOR_SHARING/PAMYLKA_ZIN_3_interactive.pdf
 [print_numar_3]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-3/tree/main/PAMYLKA_ZIN_3_FOR_PRINT
 
 [cover_numar_2]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%D0%94%D1%80%D1%83%D0%B3%D1%96_%D0%BD%D1%83%D0%BC%D0%B0%D1%80_PAMY%C5%81KA_ZIN_2.jpg/543px-%D0%94%D1%80%D1%83%D0%B3%D1%96_%D0%BD%D1%83%D0%BC%D0%B0%D1%80_PAMY%C5%81KA_ZIN_2.jpg
-[read_numar_2]: https://github.com/PAMYLKA-ZIN/pamylka-number-2/raw/refs/heads/main/PAMYLKA_ZIN_2_FOR_SHARING/ZIN_2_ready_interactive_v_3_1.pdf
+[read_numar_2]: https://github.com/PAMYLKA-ZIN/pamylka-number-2/raw/refs/heads/main/PAMYLKA_ZIN_2_FOR_SHARING/PAMYLKA_ZIN_2_interactive_v3.pdf
 [print_numar_2]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-2/tree/main/PAMYLKA_ZIN_2_FOR_PRINT
 
 [cover_numar_1]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%D0%92%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D0%BF%D0%B5%D1%80%D1%88%D0%B0%D0%B3%D0%B0_%D0%BD%D1%83%D0%BC%D0%B0%D1%80%D1%83_PAMY%C5%81KA_ZIN_1.jpg/543px-%D0%92%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D0%BF%D0%B5%D1%80%D1%88%D0%B0%D0%B3%D0%B0_%D0%BD%D1%83%D0%BC%D0%B0%D1%80%D1%83_PAMY%C5%81KA_ZIN_1.jpg
