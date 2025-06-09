@@ -16,7 +16,7 @@ title: Чытаць Памылкі анлайн
 
 [printer]: https://upload.wikimedia.org/wikipedia/commons/d/d2/Fluent_Emoji_Color_1f5a8-fe0f.svg
 
-[cover_numar_7]: https://github.com/PAMYLKA-ZIN/pamylka-number-7/raw/refs/heads/main/PAMYLKA_ZIN_7_FOR_SHARING/PAMYLKA_ZIN_7_interactive_last.pdf
+[cover_numar_7]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PAMYLKA_ZIN_7.jpg/960px-PAMYLKA_ZIN_7.jpg
 [read_numar_7]: https://github.com/PAMYLKA-ZIN/pamylka-number-7/raw/refs/heads/main/PAMYLKA_ZIN_7_FOR_SHARING/PAMYLKA_ZIN_7_interactive_last.pdf
 [print_numar_7]: https://downgit.github.io/#/home?url=https://github.com/PAMYLKA-ZIN/pamylka-number-7/tree/main/PAMYLKA_ZIN_7_FOR_PRINT
 
